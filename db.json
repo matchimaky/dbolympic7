@@ -1,0 +1,55 @@
+{
+    "country": [
+        {
+            "id": "MAR",
+            "name": "Morocco",
+            "description": "Morocco is renowned for its rich history and cultural heritage. The country excels in athletics, particularly in long-distance running, and has competitive performances in football."
+        },
+        {
+            "id": "DMA",
+            "name": "Dominica",
+            "description": "Dominica is known for its natural beauty and emerging sports talent. It has competitive performances in athletics and swimming."
+        },
+        {
+            "id": "PAK",
+            "name": "Pakistan",
+            "description": "Pakistan is known for its strong traditions in cricket and field hockey. The country also has emerging talent in sports such as athletics and squash."
+        },
+        {
+            "id": "TUR",
+            "name": "Turkiye",
+            "description": "Turkiye (Turkey) is known for its rich cultural history and contributions to various sports. It excels in wrestling, weightlifting, and football."
+        },
+        {
+            "id": "MEX",
+            "name": "Mexico",
+            "description": "Mexico is renowned for its vibrant culture and achievements in sports such as football, boxing, and athletics. The country also has a strong tradition in baseball."
+        },
+        {
+            "id": "ARM",
+            "name": "Armenia",
+            "description": "Armenia is known for its rich cultural heritage and achievements in sports like wrestling and weightlifting."
+        },
+        {
+            "id": "COL",
+            "name": "Colombia",
+            "description": "Colombia is recognized for its vibrant culture and strong performances in sports like cycling, football, and weightlifting."
+        },
+        {
+            "id": "KGZ",
+            "name": "Kyrgyzstan",
+            "description": "Kyrgyzstan is known for its stunning landscapes and strong tradition in wrestling and weightlifting. The country is emerging as a competitive force in various sports."
+        },
+        {
+            "id": "PRK",
+            "name": "Democratic People's Republic of Korea",
+            "description": "North Korea is known for its strong emphasis on sports, particularly in wrestling, weightlifting, and gymnastics. The country has a rigorous training system for its athletes."
+        },
+        {
+            "id": "LTU",
+            "name": "Lithuania",
+            "description": "Lithuania is known for its achievements in basketball and strong performances in athletics. The country has a rich sporting culture and history."
+        }
+    ]
+  }
+  
