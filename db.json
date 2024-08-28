@@ -23,7 +23,8 @@
         {
             "id": "MEX",
             "name": "Mexico",
-            "description": "Mexico is renowned for its vibrant culture and achievements in sports such as football, boxing, and athletics. The country also has a strong tradition in baseball."
+            "description": "Mexico is renowned for its vibrant culture and achievements in sports such as football, boxing, and athletics. The country also has a strong tradition in baseball.",
+             "hostcountry":"1968"
         },
         {
             "id": "ARM",
